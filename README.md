@@ -4,6 +4,9 @@
 ```shell
 unmapAll
 
+map f LinkHints.activateMode
+map F LinkHints.activateModeToOpenInNewTab
+
 map <a-s> Vomnibar.activateTabSelection
 map j scrollDown
 map k scrollUp
