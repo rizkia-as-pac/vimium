@@ -1,4 +1,4 @@
-# vimium
+# vimium for zen-browser
 
 ### Custom key mappings
 ```shell
